@@ -1,0 +1,3884 @@
+{
+  "months": [
+    "Jan-25",
+    "Feb-25",
+    "Mar-25",
+    "Apr-25",
+    "May-25",
+    "Jun-25",
+    "Jul-25",
+    "Aug-25",
+    "Sep-25",
+    "Oct-25",
+    "Nov-25",
+    "Dec-25",
+    "Jan-26",
+    "Feb-26",
+    "Mar-26",
+    "Apr-26",
+    "May-26"
+  ],
+  "ulbs": [
+    {
+      "cluster": "Bongaigaon",
+      "name": "Bongaigaon Municipal Board",
+      "area_dpr": 7134.0,
+      "area_actual": 0.0,
+      "vol_dpr": 35670.0,
+      "vol_3rd_party": 2777.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 26.4812,
+      "lng": 90.5582,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Bongaigaon",
+      "name": "Basugaon Municipal Board",
+      "area_dpr": 133.33,
+      "area_actual": 0.0,
+      "vol_dpr": 40.0,
+      "vol_3rd_party": 54.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 26.4321,
+      "lng": 90.2156,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Bongaigaon",
+      "name": "Howly Municipal Board",
+      "area_dpr": 417.14,
+      "area_actual": 0.0,
+      "vol_dpr": 1460.0,
+      "vol_3rd_party": 0.0,
+      "vol_processed": 1572.73,
+      "status": "Completed",
+      "lat": 26.4125,
+      "lng": 91.0112,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 1572.73,
+          "status": "Ongoing"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "cluster": "Bongaigaon",
+      "name": "Kokrajhar Municipal Board",
+      "area_dpr": 181.82,
+      "area_actual": 0.0,
+      "vol_dpr": 500.0,
+      "vol_3rd_party": 2100.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 26.4082,
+      "lng": 90.2733,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Bongaigaon",
+      "name": "Nalbari Municipal Board",
+      "area_dpr": 150.0,
+      "area_actual": 0.0,
+      "vol_dpr": 300.0,
+      "vol_3rd_party": 346.0,
+      "vol_processed": 332.31,
+      "status": "Completed",
+      "lat": 26.4458,
+      "lng": 91.4367,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 332.31,
+          "status": "Ongoing"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "cluster": "Bongaigaon",
+      "name": "Rangia Municipal Board",
+      "area_dpr": 150.0,
+      "area_actual": 0.0,
+      "vol_dpr": 750.0,
+      "vol_3rd_party": 0.0,
+      "vol_processed": 794.95,
+      "status": "Completed",
+      "lat": 26.4647,
+      "lng": 91.6228,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 342.55,
+          "status": "Ongoing"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 452.4,
+          "status": "Ongoing"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "cluster": "Tezpur",
+      "name": "Tezpur Municipal Board (TMB)",
+      "area_dpr": 46710.0,
+      "area_actual": 0.0,
+      "vol_dpr": 233550.0,
+      "vol_3rd_party": 76803.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 26.6338,
+      "lng": 92.7932,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Tezpur",
+      "name": "Bihpuria Municipal Board (BMB)",
+      "area_dpr": 189.99,
+      "area_actual": 0.0,
+      "vol_dpr": 190.0,
+      "vol_3rd_party": 204.0,
+      "vol_processed": 213.8,
+      "status": "Completed",
+      "lat": 27.0152,
+      "lng": 94.1328,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 213.8,
+          "status": "Ongoing"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "cluster": "Tezpur",
+      "name": "Dhekiajuli Municipal Board",
+      "area_dpr": 120.0,
+      "area_actual": 0.0,
+      "vol_dpr": 30.0,
+      "vol_3rd_party": 90.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 26.7012,
+      "lng": 93.7854,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Tezpur",
+      "name": "Gohpur Municipal Board",
+      "area_dpr": 133.33,
+      "area_actual": 0.0,
+      "vol_dpr": 200.0,
+      "vol_3rd_party": 224.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 26.8893,
+      "lng": 93.6127,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Tezpur",
+      "name": "Kharupetia Municipal Board",
+      "area_dpr": 404.0,
+      "area_actual": 0.0,
+      "vol_dpr": 1010.0,
+      "vol_3rd_party": 0.0,
+      "vol_processed": 1103.6,
+      "status": "Completed",
+      "lat": 26.5416,
+      "lng": 92.1498,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 1103.6,
+          "status": "Ongoing"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "cluster": "Tezpur",
+      "name": "Rangapara Municipal Board",
+      "area_dpr": 624.99,
+      "area_actual": 0.0,
+      "vol_dpr": 2500.0,
+      "vol_3rd_party": 2445.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 26.8512,
+      "lng": 92.6734,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Tezpur",
+      "name": "Tangla Municipal Board",
+      "area_dpr": 299.99,
+      "area_actual": 0.0,
+      "vol_dpr": 120.0,
+      "vol_3rd_party": 140.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 26.6523,
+      "lng": 92.0245,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Tezpur",
+      "name": "Bokakhat Municipal Board",
+      "area_dpr": 0.0,
+      "area_actual": 0.0,
+      "vol_dpr": 0.0,
+      "vol_3rd_party": 0.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 26.6378,
+      "lng": 93.5891,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Nagaon",
+      "name": "Nagaon Municipal Board",
+      "area_dpr": 11213.21,
+      "area_actual": 0.0,
+      "vol_dpr": 59430.0,
+      "vol_3rd_party": 26189.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 26.3478,
+      "lng": 92.6842,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Nagaon",
+      "name": "Diphu Municipal Board",
+      "area_dpr": 125.0,
+      "area_actual": 0.0,
+      "vol_dpr": 50.0,
+      "vol_3rd_party": 2840.0,
+      "vol_processed": 85.7,
+      "status": "Completed",
+      "lat": 25.8438,
+      "lng": 93.4327,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 85.7,
+          "status": "Ongoing"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "cluster": "Nagaon",
+      "name": "Bokajan Municipal Board",
+      "area_dpr": 111.11,
+      "area_actual": 0.0,
+      "vol_dpr": 100.0,
+      "vol_3rd_party": 576.0,
+      "vol_processed": 123.35,
+      "status": "Completed",
+      "lat": 26.0234,
+      "lng": 93.5812,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 123.35,
+          "status": "Ongoing"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "cluster": "Nagaon",
+      "name": "Hojai Municipal Board",
+      "area_dpr": 2217.99,
+      "area_actual": 0.0,
+      "vol_dpr": 5545.0,
+      "vol_3rd_party": 13282.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 26.0045,
+      "lng": 92.8534,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Nagaon",
+      "name": "Kampur Municipal Board",
+      "area_dpr": 120.0,
+      "area_actual": 0.0,
+      "vol_dpr": 120.0,
+      "vol_3rd_party": 183.0,
+      "vol_processed": 150.7,
+      "status": "Completed",
+      "lat": 26.4812,
+      "lng": 93.0912,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 150.7,
+          "status": "Ongoing"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "cluster": "Nagaon",
+      "name": "Morigaon Municipal Board",
+      "area_dpr": 176.47,
+      "area_actual": 0.0,
+      "vol_dpr": 300.0,
+      "vol_3rd_party": 295.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 26.2534,
+      "lng": 92.3478,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Nagaon",
+      "name": "Raha Municipal Board",
+      "area_dpr": 111.11,
+      "area_actual": 0.0,
+      "vol_dpr": 100.0,
+      "vol_3rd_party": 160.0,
+      "vol_processed": 123.6,
+      "status": "Completed",
+      "lat": 26.2012,
+      "lng": 92.5023,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 123.6,
+          "status": "Ongoing"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "cluster": "Sivasagar",
+      "name": "Sivasagar Municipal Board",
+      "area_dpr": 15872.99,
+      "area_actual": 0.0,
+      "vol_dpr": 100000.0,
+      "vol_3rd_party": 8271.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 26.9812,
+      "lng": 94.6423,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Sivasagar",
+      "name": "Golaghat Municipal Board",
+      "area_dpr": 1096.33,
+      "area_actual": 0.0,
+      "vol_dpr": 3289.0,
+      "vol_3rd_party": 2918.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 26.5212,
+      "lng": 93.9712,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Sivasagar",
+      "name": "Simaluguri Municipal Board",
+      "area_dpr": 749.99,
+      "area_actual": 0.0,
+      "vol_dpr": 2100.0,
+      "vol_3rd_party": 824.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 26.8934,
+      "lng": 94.1628,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Sivasagar",
+      "name": "Sonari Municipal Board",
+      "area_dpr": 250.0,
+      "area_actual": 0.0,
+      "vol_dpr": 250.0,
+      "vol_3rd_party": 284.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 27.0145,
+      "lng": 95.0123,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Sivasagar",
+      "name": "Titabor Municipal Board",
+      "area_dpr": 733.33,
+      "area_actual": 0.0,
+      "vol_dpr": 2200.0,
+      "vol_3rd_party": 2000.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 26.6012,
+      "lng": 94.1923,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Dibrugarh",
+      "name": "Dibrugarh Municipal Corporation (DMC)",
+      "area_dpr": 13333.33,
+      "area_actual": 0.0,
+      "vol_dpr": 80000.0,
+      "vol_3rd_party": 6272.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 27.4728,
+      "lng": 94.9012,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Dibrugarh",
+      "name": "Dhemaji Municipal Board",
+      "area_dpr": 111.11,
+      "area_actual": 0.0,
+      "vol_dpr": 100.0,
+      "vol_3rd_party": 78.0,
+      "vol_processed": 393.76,
+      "status": "Completed",
+      "lat": 27.4712,
+      "lng": 94.5623,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 393.76,
+          "status": "Ongoing"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "cluster": "Dibrugarh",
+      "name": "Digboi Municipal Board",
+      "area_dpr": 316.66,
+      "area_actual": 0.0,
+      "vol_dpr": 380.0,
+      "vol_3rd_party": 320.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 27.3823,
+      "lng": 95.6234,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Dibrugarh",
+      "name": "Silapathar Municipal Board",
+      "area_dpr": 529.29,
+      "area_actual": 0.0,
+      "vol_dpr": 1060.0,
+      "vol_3rd_party": 0.0,
+      "vol_processed": 78.16,
+      "status": "Ongoing",
+      "lat": 27.5834,
+      "lng": 94.7123,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 78.16,
+          "status": "Ongoing"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Dibrugarh",
+      "name": "Chabua Municipal Board",
+      "area_dpr": 42.86,
+      "area_actual": 0.0,
+      "vol_dpr": 100.0,
+      "vol_3rd_party": 0.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 27.4612,
+      "lng": 95.1734,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Silchar",
+      "name": "Silchar Municipal Board (SMB)",
+      "area_dpr": 33333.33,
+      "area_actual": 0.0,
+      "vol_dpr": 200000.0,
+      "vol_3rd_party": 65859.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 24.8333,
+      "lng": 92.7789,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Silchar",
+      "name": "Hailakandi Municipal Board",
+      "area_dpr": 8333.33,
+      "area_actual": 0.0,
+      "vol_dpr": 25000.0,
+      "vol_3rd_party": 12852.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 24.6823,
+      "lng": 92.5534,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Silchar",
+      "name": "Karimganj Municipal Board",
+      "area_dpr": 125.0,
+      "area_actual": 0.0,
+      "vol_dpr": 25.0,
+      "vol_3rd_party": 5700.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 24.8645,
+      "lng": 92.3512,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Silchar",
+      "name": "Lakhipur Municipal Board",
+      "area_dpr": 199.99,
+      "area_actual": 0.0,
+      "vol_dpr": 400.0,
+      "vol_3rd_party": 0.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 24.7912,
+      "lng": 93.0123,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Haflong",
+      "name": "Haflong Municipal Board",
+      "area_dpr": 10265.99,
+      "area_actual": 0.0,
+      "vol_dpr": 51330.0,
+      "vol_3rd_party": 27884.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 25.1678,
+      "lng": 93.0156,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Haflong",
+      "name": "Mahur Municipal Board",
+      "area_dpr": 905.99,
+      "area_actual": 0.0,
+      "vol_dpr": 453.0,
+      "vol_3rd_party": 351.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 25.1234,
+      "lng": 93.1456,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Haflong",
+      "name": "Maibong Municipal Board",
+      "area_dpr": 849.99,
+      "area_actual": 0.0,
+      "vol_dpr": 170.0,
+      "vol_3rd_party": 168.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 25.3012,
+      "lng": 93.1823,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    },
+    {
+      "cluster": "Haflong",
+      "name": "Umrangsho Municipal Board",
+      "area_dpr": 800.0,
+      "area_actual": 0.0,
+      "vol_dpr": 200.0,
+      "vol_3rd_party": 0.0,
+      "vol_processed": 0.0,
+      "status": "Not Yet Started",
+      "lat": 25.0423,
+      "lng": 93.0234,
+      "monthly": [
+        {
+          "month": "Jan-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jun-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jul-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Aug-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Sep-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Oct-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Nov-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Dec-25",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Jan-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Feb-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Mar-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "Apr-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        },
+        {
+          "month": "May-26",
+          "vol_processed": 0.0,
+          "status": "Not Yet Started"
+        }
+      ]
+    }
+  ]
+}
